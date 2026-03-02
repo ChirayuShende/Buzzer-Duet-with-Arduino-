@@ -46,7 +46,7 @@ Both buzzers share the Arduino ground.
 ## Circuit Diagram
 
 ```md
-![Circuit Diagram](https://github.com/ChirayuShende/Buzzer-Duet-with-Arduino-/blob/main/images/buzzer%20duet%20connections.png)
+![Circuit Diagram](images/buzzer%20duet%20connections.png)
 ```
 
 ## 🎼 How It Works
